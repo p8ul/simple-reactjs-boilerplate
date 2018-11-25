@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const FollowingMenu = () => (
-  <div className="ui large top fixed hidden menu">
+  <div className="ui large top secondary inverted fixed hidden menu">
     <div className="ui container">
       <a href="#sdff" className="active item">TECH</a>
       <a href="#sdf" className="item">POLITICS</a>

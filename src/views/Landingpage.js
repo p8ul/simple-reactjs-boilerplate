@@ -5,6 +5,7 @@ import TemplateDefault from './Templates/TemplateDefault';
 const LandingPage = () => (
   <TemplateDefault>
     <App />
+    <App />
   </TemplateDefault>
 );
 
