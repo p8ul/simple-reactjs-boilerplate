@@ -20,7 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "coveralls": "react-scripts test --coverage && cat ./tests/coverage/lcov.info | coveralls",
+    "coveralls": "react-scripts test --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
     "eject": "react-scripts eject",
     "lint": "eslint ./src/*.js"
   },
@@ -34,6 +34,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "coveralls": "^3.0.2",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.0",
