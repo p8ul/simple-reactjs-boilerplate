@@ -1,4 +1,30 @@
+[![Coverage Status](https://coveralls.io/repos/github/p8ul/reactjs-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/p8ul/reactjs-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/p8ul/reactjs-boilerplate.svg?branch=master)](https://travis-ci.org/p8ul/reactjs-boilerplate)
+
+React + Redux + React Router starter kit / boilerplate with Babel, hot reloading, testing, linting.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Tech Stack
+
+Here's a curated list of packages that you should be at least familiar with before starting your awesome project. However, the best way to see a complete list of the dependencies is to check [package.json](https://github.com/p8ul/reactjs-boilerplate/blob/master/package.json).
+
+### Core
+
+- [x] [React](https://facebook.github.io/react/)
+- [x] [React Router](https://github.com/ReactTraining/react-router)
+- [x] [Redux](http://redux.js.org/)
+- [x] [Sass](https://sass-lang.com/)
+- [ ] [React semantic ui](https://react.semantic-ui.com) (optional)
+
+### Unit Testing
+
+- [x] [Jest](http://facebook.github.io/jest/)
+- [X] [Enzyme](http://airbnb.io/enzyme/)
+
+### Linting
+
+- [X] [ESLint](http://eslint.org/)
 
 ## Available Scripts
 
@@ -27,14 +53,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-# reactjs-boilerplate
