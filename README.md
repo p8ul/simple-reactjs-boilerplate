@@ -1,7 +1,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/p8ul/reactjs-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/p8ul/reactjs-boilerplate?branch=master)
 [![Build Status](https://travis-ci.org/p8ul/reactjs-boilerplate.svg?branch=master)](https://travis-ci.org/p8ul/reactjs-boilerplate)
 
-React + Redux + React Router starter kit / boilerplate with Babel, hot reloading, testing, linting.
+🔥React + Redux + React Router starter kit / boilerplate with Babel, hot reloading, testing, linting.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
