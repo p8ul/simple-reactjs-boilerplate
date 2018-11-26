@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const FollowingMenu = () => (
+const FixedMenu = () => (
   <div className="ui large top secondary inverted fixed hidden menu">
     <div className="ui container">
       <a href="#sdff" className="active item">TECH</a>
@@ -29,4 +29,4 @@ const FollowingMenu = () => (
   </div>
 );
 
-export default FollowingMenu;
+export default FixedMenu;

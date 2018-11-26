@@ -1,5 +1,5 @@
 import React from 'react';
-import App from '../components';
+import App from '../components/LandingPage';
 import TemplateDefault from './Templates/TemplateDefault';
 
 const LandingPage = () => (

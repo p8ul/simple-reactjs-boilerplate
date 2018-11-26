@@ -2,10 +2,10 @@ import React from 'react';
 import TemplateWithoutMenu from './Templates/TemplateWithoutMenu';
 import SignUp from '../components/SignUp';
 
-const Login = () => (
+const SignUpPage = () => (
   <TemplateWithoutMenu>
     <SignUp />
   </TemplateWithoutMenu>
 );
 
-export default Login;
+export default SignUpPage;

@@ -10,7 +10,7 @@ const SignUp = () => (
         <div className="field">
           <div className="ui left icon input">
             <i className="user outline icon" />
-            <input type="username" name="username" placeholder="Username" autoFocus="true" />
+            <input type="username" name="username" placeholder="Username" />
           </div>
 
         </div>
@@ -18,7 +18,7 @@ const SignUp = () => (
         <div className="field">
           <div className="ui left icon input">
             <i className="mail outline icon" />
-            <input type="email" name="email" placeholder="Email Address" autoFocus="true" />
+            <input type="email" name="email" placeholder="Email Address" />
           </div>
 
         </div>

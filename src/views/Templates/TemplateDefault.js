@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Container, Visibility } from 'semantic-ui-react';
 import Menu from '../../components/Menu';
-import FollowingMenu from '../../components/Menu/FollowingMenu';
+import FixedMenu from '../../components/Menu/FixedMenu';
 import Logo from '../../components/Menu/Logo';
 import SidebarMenu from '../../components/Menu/SidebarMenu';
 import Footer from '../../components/Footer';
@@ -19,7 +19,7 @@ const offScreen = () => {
 };
 const TemplateDefault = ({ children }) => (
   <React.Fragment>
-    <FollowingMenu />
+    <FixedMenu />
     <SidebarMenu />
     <div className="pusher">
       <Logo />
