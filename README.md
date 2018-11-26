@@ -3,6 +3,9 @@
 
 🔥React + Redux + React Router starter kit / boilerplate with Babel, hot reloading, testing, linting.
 
+## Heroku deployment
+> **[Check it out](https://reactjs-boilerplate.herokuapp.com/)**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Tech Stack
